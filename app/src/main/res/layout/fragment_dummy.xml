@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ll_dummy_background"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary">
+
+    <TextView
+            android:id="@+id/tv_dummy_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="화면 1"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:textStyle="bold"/>
+
+</LinearLayout>
